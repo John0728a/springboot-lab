@@ -14,7 +14,7 @@
     <name>springboot-lab</name>
     <description>Demo Spring Boot project</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
