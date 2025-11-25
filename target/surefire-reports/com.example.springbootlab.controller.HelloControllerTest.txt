@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.springbootlab.controller.HelloControllerTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.740 s -- in com.example.springbootlab.controller.HelloControllerTest
